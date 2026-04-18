@@ -1,19 +1,34 @@
 {
-	"version": 1.1,
+	"version": 1.0,
 	"questions": {
-		"historia": [
+		"Culote de agus": [
 			{
-				"type": "true_or_false",
-				"question": "¿La Tierra es plana?",
-				"answer": false,
-				"time": 30
+				"answer": "si",
+				"identificator": "q_45469",
+				"options": [
+					"nose",
+					" talvez",
+					" no"
+				],
+				"question": "agus es gay??",
+				"time": 10,
+				"type": "questions"
+			}
+		],
+		"femboyagus": [
+			{
+				"answer": true,
+				"identificator": "q_32149",
+				"question": "hetero?????",
+				"time": 67,
+				"type": "true_or_false"
 			},
 			{
-				"type": "questions",
-				"question": "¿Capital de Francia?",
-				"answer": "Paris",
-				"options": ["Paris", "Londres", "Roma", "Berlin"],
-				"time": 30
+				"answer": "no",
+				"identificator": "q_146",
+				"question": "jobs??????",
+				"time": 9,
+				"type": "open_answer"
 			}
 		]
 	}
