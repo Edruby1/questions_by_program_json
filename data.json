@@ -1,34 +1,232 @@
 {
-	"version": 1.0,
+	"version": 1.2,
 	"questions": {
-		"Culote de agus": [
+		"Caracteristicas": [
 			{
-				"answer": "si",
-				"identificator": "q_45469",
+				"answer": "se crean en un punto temporal determinado",
+				"identificator": "q_20917",
 				"options": [
-					"nose",
-					" talvez",
-					" no"
+					"Las organizaciones tienden en ocasiones a extralimitarse en el ejercicio de su poder.",
+					"tienen un logo creado por el estado",
+					"imprimir billetes",
+					"no cumplen sus objetivos",
+					"no hay jerarquias"
 				],
-				"question": "agus es gay??",
-				"time": 10,
+				"question": "Cual de estas es una caracteristica de una organizacion?",
+				"time": 20,
 				"type": "questions"
-			}
-		],
-		"femboyagus": [
+			},
 			{
 				"answer": true,
-				"identificator": "q_32149",
-				"question": "hetero?????",
-				"time": 67,
+				"identificator": "q_71362",
+				"question": "Las organizaciones tienen politicas para cumplir sus objetivos?",
+				"time": 15,
 				"type": "true_or_false"
 			},
 			{
-				"answer": "no",
-				"identificator": "q_146",
-				"question": "jobs??????",
-				"time": 9,
+				"answer": "jerarquico",
+				"identificator": "q_44383",
+				"question": "Las organizaciones tienen un orden __________ que divide el poder de cada uno",
+				"time": 20,
 				"type": "open_answer"
+			},
+			{
+				"answer": "objetivos",
+				"identificator": "q_74631",
+				"options": [
+					"papear",
+					"quieren beneficio propio",
+					"piden tributos",
+					"sus fondos superan el millon",
+					"estafan",
+					"vestir a agus de maid"
+				],
+				"question": "Que es lo que tienen todas las organizaciones en comun?",
+				"time": 20,
+				"type": "questions"
+			}
+		],
+		"Clasificacion": [
+			{
+				"answer": true,
+				"identificator": "q_17248",
+				"question": "McDonalds es una organizacion con fines de lucro?",
+				"time": 10,
+				"type": "true_or_false"
+			},
+			{
+				"answer": false,
+				"identificator": "q_93181",
+				"question": "GreenPeace es una organizacion con fines de lucro?",
+				"time": 10,
+				"type": "true_or_false"
+			},
+			{
+				"answer": "UNICEF",
+				"identificator": "q_74653",
+				"options": [
+					"McDonalds",
+					"Burger King",
+					"Coca Cola",
+					"Pepsi",
+					"Mostaza",
+					"Sprite",
+					"Monster"
+				],
+				"question": "Cual de estas organizaciones NO tiene fines de lucro",
+				"time": 15,
+				"type": "questions"
+			},
+			{
+				"answer": "empresas",
+				"identificator": "q_16858",
+				"question": "Que otro nombre tienen las organizaciones con fines de lucro?",
+				"time": 15,
+				"type": "open_answer"
+			},
+			{
+				"answer": true,
+				"identificator": "q_16203",
+				"question": "Las organizaciones sin fines de lucro piden tributos para seguir subsistiendo en la epoca actual en las que se crearon?",
+				"time": 15,
+				"type": "true_or_false"
+			}
+		],
+		"Conceptos": [
+			{
+				"answer": "unidades coordinadas",
+				"identificator": "q_51184",
+				"question": "Que son las organizaciones?",
+				"time": 25.0,
+				"type": "open_answer"
+			},
+			{
+				"answer": "Cumplen sus objetivos",
+				"identificator": "q_86900",
+				"options": [
+					"vender droga",
+					" comprar recursos y no venderlos",
+					" comprar un pais",
+					" tirarle hate a ibai",
+					" evadir impuestos"
+				],
+				"question": "Que hacen las organizaciones?",
+				"time": 20.0,
+				"type": "questions"
+			},
+			{
+				"answer": false,
+				"identificator": "q_24277",
+				"question": "Las organizaciones trabajan individualmente para cumplir sus objetivos?",
+				"time": 15.0,
+				"type": "true_or_false"
+			},
+			{
+				"answer": "cumplir sus objetivos",
+				"identificator": "q_93034",
+				"options": [
+					"comprar recursos",
+					" ver el personal",
+					" pedir tributos",
+					" estafar a sus clientes",
+					" abusar de su poder",
+					" francia"
+				],
+				"question": "Cual es el objetivo de una organizacion?",
+				"time": 20.0,
+				"type": "questions"
+			},
+			{
+				"answer": true,
+				"identificator": "q_63295",
+				"question": "Las organizaciones tienen politicas y jerarquia?",
+				"time": 15.0,
+				"type": "true_or_false"
+			}
+		],
+		"Recursos": [
+			{
+				"answer": "tecnologicos",
+				"identificator": "q_71297",
+				"options": [
+					"humanos",
+					"naturales y energeticos",
+					"marca nombre y prestigio",
+					"materiales"
+				],
+				"question": "Que recurso organizacional incluye computadoras, celulares?",
+				"time": 20,
+				"type": "questions"
+			},
+			{
+				"answer": false,
+				"identificator": "q_28289",
+				"question": "Los recursos materiales involucran humanos?",
+				"time": 15,
+				"type": "true_or_false"
+			},
+			{
+				"answer": true,
+				"identificator": "q_95661",
+				"question": "Los recursos humanos estan dividos por jerarquias?",
+				"time": 12,
+				"type": "true_or_false"
+			},
+			{
+				"answer": true,
+				"identificator": "q_33399",
+				"question": "Se puede considerar la energia como un recurso natural y energetico al igual que el agua o la madera?",
+				"time": 10,
+				"type": "true_or_false"
+			},
+			{
+				"answer": "naturales y energeticos",
+				"identificator": "q_34138",
+				"options": [
+					"humanos",
+					"tecnologicos",
+					"ideas conocimientos y informacion",
+					"marca nombre y prestigio"
+				],
+				"question": "Que son estos recursos? (Agua, Energia, Madera, Tierra)",
+				"time": 0,
+				"type": "questions"
+			},
+			{
+				"answer": "para posicionarse en el mercado",
+				"identificator": "q_2586",
+				"options": [
+					"para quedar bien",
+					"por que si",
+					"para evadir impuestos",
+					"hacer nfts"
+				],
+				"question": "Para que se usan la marca, nombre y prestigio de una organizacion?",
+				"time": 15,
+				"type": "questions"
+			},
+			{
+				"answer": "ideas, conocimientos, informacion",
+				"identificator": "q_30574",
+				"options": [
+					"humanos",
+					"nose",
+					"tecnologicos",
+					"energeticos",
+					"naturales",
+					"sociales",
+					"historia"
+				],
+				"question": "Como se le llama al recurso donde todos los empleados tienen un iq mayor en el tema de su organizacion?",
+				"time": 20,
+				"type": "questions"
+			},
+			{
+				"answer": false,
+				"identificator": "q_19335",
+				"question": "Un gato tiene ideas, conocimientos e informacion (que chotada dice agus el femboy)",
+				"time": 10,
+				"type": "true_or_false"
 			}
 		]
 	}
