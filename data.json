@@ -189,7 +189,7 @@
 					"marca nombre y prestigio"
 				],
 				"question": "Que son estos recursos? (Agua, Energia, Madera, Tierra)",
-				"time": 0,
+				"time": 10,
 				"type": "questions"
 			},
 			{
