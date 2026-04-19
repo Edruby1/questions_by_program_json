@@ -1,5 +1,5 @@
 {
-	"version": 1.2,
+	"version": 1.2.1,
 	"questions": {
 		"Caracteristicas": [
 			{
@@ -13,21 +13,21 @@
 					"no hay jerarquias"
 				],
 				"question": "Cual de estas es una caracteristica de una organizacion?",
-				"time": 20,
+				"time": 20.0,
 				"type": "questions"
 			},
 			{
 				"answer": true,
 				"identificator": "q_71362",
 				"question": "Las organizaciones tienen politicas para cumplir sus objetivos?",
-				"time": 15,
+				"time": 15.0,
 				"type": "true_or_false"
 			},
 			{
 				"answer": "jerarquico",
 				"identificator": "q_44383",
 				"question": "Las organizaciones tienen un orden __________ que divide el poder de cada uno",
-				"time": 20,
+				"time": 20.0,
 				"type": "open_answer"
 			},
 			{
@@ -42,8 +42,15 @@
 					"vestir a agus de maid"
 				],
 				"question": "Que es lo que tienen todas las organizaciones en comun?",
-				"time": 20,
+				"time": 20.0,
 				"type": "questions"
+			},
+			{
+				"answer": true,
+				"identificator": "q_68174",
+				"question": "Mostaza tiene una politica para que se cumplan sus objetivos?",
+				"time": 15,
+				"type": "true_or_false"
 			}
 		],
 		"Clasificacion": [
@@ -51,14 +58,14 @@
 				"answer": true,
 				"identificator": "q_17248",
 				"question": "McDonalds es una organizacion con fines de lucro?",
-				"time": 10,
+				"time": 10.0,
 				"type": "true_or_false"
 			},
 			{
 				"answer": false,
 				"identificator": "q_93181",
 				"question": "GreenPeace es una organizacion con fines de lucro?",
-				"time": 10,
+				"time": 10.0,
 				"type": "true_or_false"
 			},
 			{
@@ -74,20 +81,34 @@
 					"Monster"
 				],
 				"question": "Cual de estas organizaciones NO tiene fines de lucro",
-				"time": 15,
+				"time": 15.0,
 				"type": "questions"
 			},
 			{
 				"answer": "empresas",
 				"identificator": "q_16858",
 				"question": "Que otro nombre tienen las organizaciones con fines de lucro?",
-				"time": 15,
+				"time": 15.0,
 				"type": "open_answer"
 			},
 			{
 				"answer": true,
 				"identificator": "q_16203",
 				"question": "Las organizaciones sin fines de lucro piden tributos para seguir subsistiendo en la epoca actual en las que se crearon?",
+				"time": 15.0,
+				"type": "true_or_false"
+			},
+			{
+				"answer": "obtener ganancias",
+				"identificator": "q_90370",
+				"question": "Cual seria el objetivo principal de una organizacion con fines de lucro?",
+				"time": 20,
+				"type": "open_answer"
+			},
+			{
+				"answer": true,
+				"identificator": "q_28000",
+				"question": "las organizaciones sin fines de lucro se enfocan en puntos clave de las comunidades para mejorar su calidad de vida?",
 				"time": 15,
 				"type": "true_or_false"
 			}
@@ -142,6 +163,13 @@
 				"question": "Las organizaciones tienen politicas y jerarquia?",
 				"time": 15.0,
 				"type": "true_or_false"
+			},
+			{
+				"answer": true,
+				"identificator": "q_10411",
+				"question": "alguien de limpieza y contador puede ser parte de una jerarquia de una organizacion?",
+				"time": 15,
+				"type": "true_or_false"
 			}
 		],
 		"Recursos": [
@@ -155,28 +183,28 @@
 					"materiales"
 				],
 				"question": "Que recurso organizacional incluye computadoras, celulares?",
-				"time": 20,
+				"time": 20.0,
 				"type": "questions"
 			},
 			{
 				"answer": false,
 				"identificator": "q_28289",
 				"question": "Los recursos materiales involucran humanos?",
-				"time": 15,
+				"time": 15.0,
 				"type": "true_or_false"
 			},
 			{
 				"answer": true,
 				"identificator": "q_95661",
 				"question": "Los recursos humanos estan dividos por jerarquias?",
-				"time": 12,
+				"time": 12.0,
 				"type": "true_or_false"
 			},
 			{
 				"answer": true,
 				"identificator": "q_33399",
 				"question": "Se puede considerar la energia como un recurso natural y energetico al igual que el agua o la madera?",
-				"time": 10,
+				"time": 10.0,
 				"type": "true_or_false"
 			},
 			{
@@ -189,7 +217,7 @@
 					"marca nombre y prestigio"
 				],
 				"question": "Que son estos recursos? (Agua, Energia, Madera, Tierra)",
-				"time": 10,
+				"time": 10.0,
 				"type": "questions"
 			},
 			{
@@ -202,7 +230,7 @@
 					"hacer nfts"
 				],
 				"question": "Para que se usan la marca, nombre y prestigio de una organizacion?",
-				"time": 15,
+				"time": 15.0,
 				"type": "questions"
 			},
 			{
@@ -218,15 +246,56 @@
 					"historia"
 				],
 				"question": "Como se le llama al recurso donde todos los empleados tienen un iq mayor en el tema de su organizacion?",
-				"time": 20,
+				"time": 20.0,
 				"type": "questions"
 			},
 			{
 				"answer": false,
 				"identificator": "q_19335",
-				"question": "Un gato tiene ideas, conocimientos e informacion (que chotada dice agus el femboy)",
-				"time": 10,
+				"question": "Un gato tiene ideas, conocimientos e informacion (que chotada dice agus el femboy (que rico))",
+				"time": 10.0,
 				"type": "true_or_false"
+			},
+			{
+				"answer": "para desarrollar sus actividades",
+				"identificator": "q_30335",
+				"options": [
+					"para obtener ganancias",
+					"para desatar su aura",
+					"para crear objetivos",
+					"para tener claridad en la informacion",
+					"busqueda de informacion"
+				],
+				"question": "Para que sirven los recursos en las organizaciones?",
+				"time": 15,
+				"type": "questions"
+			},
+			{
+				"answer": "grua",
+				"identificator": "q_75728",
+				"options": [
+					"electricidad",
+					"humanos",
+					"computadoras",
+					"agua",
+					"intelecto"
+				],
+				"question": "Cual de estas es un recurso material?",
+				"time": 18,
+				"type": "questions"
+			},
+			{
+				"answer": "para el desarrollo y evolucion de una organiacion",
+				"identificator": "q_38423",
+				"options": [
+					"para nada",
+					"para saber el intelecto de los humanos",
+					"para crear recetas de cocina",
+					"para las organizaciones"
+				],
+				"question": "Para que sirve las ideas, conocimientos e informacion en una organizacion?",
+				"time": 15,
+				"type": "questions"
 			}
 		]
 	}
